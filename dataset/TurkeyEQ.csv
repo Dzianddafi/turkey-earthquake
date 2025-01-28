@@ -1,0 +1,98 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-04T07:42:20.496Z,40.4371,28.848,10.117,5.1,mww,104,32,1.306,0.63,us,us7000lg2l,2024-02-10T23:47:29.040Z,"7 km NNW of Mudanya, Turkey",earthquake,4.14,3.646,0.071,19,reviewed,us,us
+2023-11-23T14:46:09.122Z,38.0841,38.552,10,5.3,mww,63,43,0.677,0.66,us,us6000lq9s,2024-02-01T15:13:43.040Z,"7 km NW of Sincik, Turkey",earthquake,4.5,1.832,0.052,36,reviewed,us,us
+2023-08-10T17:48:01.234Z,38.2665,38.2011,10,5.2,mww,114,30,0.832,0.87,us,us6000kz45,2023-10-17T22:01:29.040Z,"5 km SW of Yeşilyurt, Turkey",earthquake,4.83,1.716,0.04,60,reviewed,us,us
+2023-07-25T05:44:51.283Z,37.5794,35.9482,13.116,5.5,mww,113,56,0.315,0.41,us,us7000ki5u,2023-09-30T21:36:40.040Z,"18 km NE of Kozan, Turkey",earthquake,3.74,3.551,0.045,48,reviewed,us,us
+2023-04-26T20:00:34.782Z,36.4294,26.3159,116.496,5.1,mww,117,35,1.474,0.77,us,us7000jw42,2024-01-18T19:52:20.744Z,"13 km SSW of Astyp?laia, Greece",earthquake,5.97,5.166,0.05,38,reviewed,us,us
+2023-03-24T03:16:56.125Z,38.4614,44.8505,11,5.6,mww,101,40,1.179,0.92,us,us7000jmbi,2024-10-09T17:19:00.420Z,"13 km SW of Khowy, Iran",earthquake,3.53,1.805,0.047,43,reviewed,us,us
+2023-03-23T09:19:53.459Z,38.0109,36.4273,10,5.3,mww,107,21,0.396,0.97,us,us7000jm54,2023-05-26T21:54:14.040Z,"6 km W of Göksun, Turkey",earthquake,5.31,1.77,0.054,33,reviewed,us,us
+2023-03-16T11:47:14.816Z,38.5027,45.0678,10,5.2,mww,110,33,1.111,1.02,us,us7000jkel,2023-05-20T23:20:29.040Z,"11 km ESE of Khowy, Iran",earthquake,5.3,1.758,0.063,24,reviewed,us,us
+2023-03-03T02:53:43.065Z,37.8395,36.7004,7.12,5,mww,85,26,0.369,0.9,us,us7000jgyv,2023-05-08T02:00:31.040Z,"26 km SE of Göksun, Turkey",earthquake,5.78,3.331,0.059,28,reviewed,us,us
+2023-02-27T09:04:51.865Z,38.2144,38.2773,10,5.2,mww,107,26,0.878,0.74,us,us6000jrw4,2023-05-08T01:59:41.040Z,"9 km SSE of Ye?ilyurt, Turkey",earthquake,3.79,1.636,0.052,36,reviewed,us,us
+2023-02-25T10:27:10.918Z,37.9797,33.9876,11.752,5.2,mww,123,55,1.701,0.53,us,us6000jriw,2023-04-29T21:57:37.040Z,"15 km ENE of Emirgazi, Turkey",earthquake,5.02,3.63,0.048,41,reviewed,us,us
+2023-02-20T17:07:35.934Z,36.159,35.9351,10,5.5,mb,35,88,1.44,0.67,us,us6000jqjc,2023-04-29T21:57:17.040Z,"9 km WNW of Uzunba?, Turkey",earthquake,6.46,1.892,0.128,21,reviewed,us,us
+2023-02-20T17:04:29.747Z,36.1616,36.0251,16,6.3,mww,146,26,1.387,0.95,us,us6000jqcn,2024-10-09T13:50:37.493Z,"2 km NNW of Uzunba?, Turkey",earthquake,4.9,0.943,0.031,97,reviewed,us,us
+2023-02-18T19:31:31.742Z,38.0696,36.5991,12.158,5,mww,122,33,0.366,0.59,us,us6000jpyq,2023-04-22T21:33:20.040Z,"10 km ENE of Göksun, Turkey",earthquake,3.37,2.577,0.058,29,reviewed,us,us
+2023-02-16T19:47:49.683Z,36.1766,35.7967,10,5.2,mww,145,59,1.468,0.89,us,us6000jpff,2023-04-22T21:33:14.040Z,"21 km W of Uzunba?, Turkey",earthquake,4.78,1.61,0.052,35,reviewed,us,us
+2023-02-12T16:29:49.826Z,38.824,38.031,10,5,mww,70,28,0.359,0.93,us,us6000jngk,2023-04-22T21:33:03.040Z,"8 km E of Hekimhan, Turkey",earthquake,4.59,1.842,0.053,34,reviewed,us,us
+2023-02-08T14:20:24.960Z,37.9963,37.4325,5.398,5.1,mww,188,55,0.647,0.55,us,us6000jmh3,2023-04-15T21:39:47.040Z,"3 km N of Nurhak, Turkey",earthquake,3.81,3.653,0.083,14,reviewed,us,us
+2023-02-08T11:11:52.969Z,37.9389,37.6611,9.559,5.4,mww,155,44,0.743,0.66,us,us6000jmgf,2023-04-15T21:39:47.040Z,"17 km N of Gölba??, Turkey",earthquake,4.63,3.921,0.05,39,reviewed,us,us
+2023-02-08T07:48:31.978Z,38.0061,36.4959,10,5,mww,102,27,0.405,0.99,us,us6000jmg1,2023-04-15T21:39:46.040Z,"1 km S of Göksun, Turkey",earthquake,4.37,1.782,0.054,33,reviewed,us,us
+2023-02-07T18:09:59.860Z,37.9358,36.6013,17.857,5.3,mww,165,26,0.409,0.61,us,us6000jmat,2023-04-15T21:39:45.040Z,"Central Turkey",earthquake,4.64,2.021,0.093,11,reviewed,us,us
+2023-02-07T15:48:54.123Z,37.9939,36.4771,11.132,5,mww,138,22,0.415,0.61,us,us6000jm96,2023-04-15T21:39:44.040Z,"3 km SSW of Göksun, Turkey",earthquake,5.2,3.312,0.062,25,reviewed,us,us
+2023-02-07T10:18:14.589Z,38.0164,38.57,12.988,5.3,mww,204,29,0.608,0.54,us,us6000jm7f,2023-04-15T21:39:43.040Z,"4 km WSW of Sincik, Turkey",earthquake,5.21,3.31,0.065,23,reviewed,us,us
+2023-02-07T07:11:15.008Z,38.0971,38.6398,9.063,5.4,mww,135,29,1.464,0.72,us,us6000jm6p,2023-04-15T21:39:43.040Z,"7 km NNE of Sincik, Turkey",earthquake,2.08,3.088,0.053,34,reviewed,us,us
+2023-02-07T03:13:12.754Z,37.7639,37.7309,10,5.5,mww,136,45,0.722,0.58,us,us6000jm5e,2023-04-15T21:39:42.040Z,"8 km ESE of Gölba??, Turkey",earthquake,5.01,1.719,0.062,25,reviewed,us,us
+2023-02-06T20:37:51.879Z,37.2507,37.0859,10,5.3,mww,137,34,0.126,0.76,us,us6000jm2r,2023-04-15T21:39:40.040Z,"32 km SW of Pazarc?k, Turkey",earthquake,2.81,1.754,0.071,19,reviewed,us,us
+2023-02-06T18:03:53.807Z,37.9781,36.4456,10,5.2,mww,119,20,0.405,0.76,us,us6000jm1p,2024-01-18T19:19:16.453Z,"6 km SW of G?ksun, Turkey",earthquake,4.96,1.324,0.098,10,reviewed,us,us
+2023-02-06T16:43:28.541Z,38.0007,36.5078,10,5,mwr,128,33,0.412,0.88,us,us6000jlta,2023-04-15T21:39:39.040Z,"2 km SSE of Göksun, Turkey",earthquake,2.97,1.831,0.073,18,reviewed,us,us
+2023-02-06T15:33:32.721Z,38.19,38.1756,7.43,5.4,mwr,112,29,1.273,0.8,us,us6000jlsu,2023-04-15T21:39:38.040Z,"eastern Turkey",earthquake,5.06,1.918,0.08,15,reviewed,us,us
+2023-02-06T13:44:51.298Z,37.9405,37.4916,16.865,5,mb,106,64,0.799,0.71,us,us6000jls6,2023-04-15T21:39:38.040Z,"5 km ESE of Nurhak, Turkey",earthquake,3.9,3.84,0.055,105,reviewed,us,us
+2023-02-06T13:39:24.254Z,38.0166,37.7013,10,5.3,mb,221,33,0.929,1.23,us,us6000jls3,2023-04-15T21:39:37.040Z,"16 km WSW of Do?an?ehir, Turkey",earthquake,5.36,1.802,0.044,176,reviewed,us,us
+2023-02-06T13:07:45.076Z,38.0384,37.371,16.904,5,mb,114,56,0.836,0.67,us,us6000jlrv,2023-04-15T21:39:37.040Z,"Central Turkey",earthquake,2.07,3.632,0.053,115,reviewed,us,us
+2023-02-06T12:02:11.275Z,38.0582,36.5114,8.516,6,mb,138,25,0.356,0.54,us,us6000jlrc,2023-04-15T21:39:37.040Z,"4 km NNE of Göksun, Turkey",earthquake,4.32,3.954,0.024,647,reviewed,us,us
+2023-02-06T11:05:35.084Z,38.0752,36.7588,5.968,5.1,mb,86,68,0.426,0.61,us,us6000jlqr,2023-04-15T21:39:36.040Z,"23 km SW of Af?in, Turkey",earthquake,5.12,4.724,0.071,64,reviewed,us,us
+2023-02-06T10:51:30.994Z,38.248,38.1847,10,5.7,mb,96,42,0.95,0.97,us,us6000jlql,2023-04-15T21:39:36.040Z,"7 km SW of Ye?ilyurt, Turkey",earthquake,4.74,1.773,0.047,158,reviewed,us,us
+2023-02-06T10:35:58.161Z,38.0249,37.8023,10,5.8,mb,109,56,0.973,0.9,us,us6000jlqe,2023-04-15T21:39:36.040Z,"9 km SW of Do?an?ehir, Turkey",earthquake,4.5,1.797,0.051,141,reviewed,us,us
+2023-02-06T10:32:08.932Z,37.9962,37.2033,14.057,5.4,mb,44,66,0.742,0.98,us,us6000jnt0,2023-04-15T21:40:02.040Z,"7 km S of Ekinözü, Turkey",earthquake,4.09,3.651,0.176,20,reviewed,us,us
+2023-02-06T10:26:46.742Z,38.0315,38.0984,10,6,mb,65,63,1.111,0.88,us,us6000jm1y,2024-03-03T05:22:03.358Z,"12 km W of Çelikhan, Turkey",earthquake,4.28,1.605,0.081,57,reviewed,us,us
+2023-02-06T10:24:48.811Z,38.0106,37.1962,7.432,7.5,mww,111,29,0.73,0.7,us,us6000jlqa,2024-11-01T06:19:12.241Z,"Elbistan earthquake, Kahramanmaras earthquake sequence",earthquake,5.09,3.709,0.041,58,reviewed,us,us
+2023-02-06T04:18:46.986Z,38.1845,38.5342,16.416,5,mb,145,36,0.776,0.58,us,us6000jlnf,2023-04-15T21:39:34.040Z,"17 km NNW of Sincik, Turkey",earthquake,5.5,3.967,0.053,112,reviewed,us,us
+2023-02-06T02:23:14.336Z,37.1816,36.9658,11.359,5.3,mb,195,36,0.195,0.55,us,us6000jlmn,2023-04-15T21:39:34.040Z,"20 km E of Nurda??, Turkey",earthquake,4.96,3.519,0.046,159,reviewed,us,us
+2023-02-06T02:06:23.457Z,37.9227,38.0613,10,5,mb,90,64,0.771,0.97,us,us6000jmn0,2023-04-15T21:39:49.040Z,"19 km NE of Tut, Turkey",earthquake,4.75,1.816,0.068,68,reviewed,us,us
+2023-02-06T02:03:37.341Z,37.7712,37.9141,16.929,5.3,mb,154,35,0.792,0.61,us,us6000jlmh,2023-04-15T21:39:33.040Z,"Central Turkey",earthquake,4.28,3.347,0.052,122,reviewed,us,us
+2023-02-06T01:58:23.118Z,37.0302,36.6208,10,5.1,mb,120,69,0.492,0.67,us,us6000jlmf,2023-04-15T21:39:33.040Z,"12 km SSE of Hasanbeyli, Turkey",earthquake,5.06,1.841,0.06,91,reviewed,us,us
+2023-02-06T01:36:27.357Z,36.9921,36.6832,10,5.6,mb,167,47,0.458,0.59,us,us6000jlm9,2023-04-15T21:39:33.040Z,"Turkey-Syria border region",earthquake,6.2,1.76,0.052,128,reviewed,us,us
+2023-02-06T01:28:15.784Z,37.1893,36.8929,9.797,6.7,mww,194,19,0.254,0.68,us,us6000jlm1,2023-09-22T20:09:20.631Z,"14 km E of Nurda??, Turkey",earthquake,7.68,3.333,0.098,10,reviewed,us,us
+2023-02-06T01:26:50.869Z,37.2252,37.0001,10,5.7,mb,94,75,0.175,1.32,us,us6000jlnn,2024-10-09T17:16:06.477Z,"24 km ENE of Nurda??, Turkey",earthquake,2.35,1.789,0.072,69,reviewed,us,us
+2023-02-06T01:17:34.342Z,37.2256,37.0143,10,7.8,mww,266,17,0.165,0.66,us,us6000jllz,2024-10-02T07:31:26.861Z,"Pazarcik earthquake, Kahramanmaras earthquake sequence",earthquake,5.23,1.784,0.05,38,reviewed,us,us
+2023-01-28T18:16:56.220Z,38.4811,44.9282,10,5.1,mb,100,65,1.479,0.69,us,us6000jmwl,2023-04-11T18:51:51.040Z,"7 km SSW of Khowy, Iran",earthquake,5.27,1.826,0.067,73,reviewed,us,us
+2023-01-28T18:14:45.855Z,38.4199,44.9097,16,5.9,mww,239,31,1.459,0.76,us,us6000jk0t,2023-04-11T18:51:39.040Z,"14 km SSW of Khowy, Iran",earthquake,5.24,1.769,0.045,48,reviewed,us,us
+2023-01-18T10:08:14.166Z,38.4334,44.9458,19.102,5.7,mww,195,59,1.192,0.64,us,us7000j56z,2023-03-31T19:45:07.040Z,"12 km S of Khowy, Iran",earthquake,5.45,3.772,0.069,20,reviewed,us,us
+2022-11-23T01:08:15.435Z,40.8356,30.9831,10,6.1,mww,286,14,0.399,0.64,us,us7000irp8,2024-10-23T05:22:10.667Z,"15 km W of Düzce, Turkey",earthquake,5.05,1.647,0.052,35,reviewed,us,us
+2022-11-20T23:24:58.462Z,35.8357,26.4319,63,5.5,mww,235,43,1.371,0.76,us,us7000ir86,2023-01-30T06:00:29.040Z,"Crete, Greece",earthquake,5.08,1.857,0.05,39,reviewed,us,us
+2022-10-11T15:48:46.359Z,37.2612,36.2339,10,5,mww,104,38,1.618,0.56,us,us6000isrr,2022-12-17T22:53:54.040Z,"17 km SE of Kadirli, Turkey",earthquake,3.18,1.751,0.045,47,reviewed,us,us
+2022-10-05T00:21:29.702Z,38.5064,45.0259,15,5.6,mww,105,67,1.558,0.67,us,us6000iqx6,2022-12-10T22:53:11.040Z,"8 km SE of Khowy, Iran",earthquake,7.72,1.811,0.057,30,reviewed,us,us
+2022-09-27T14:08:32.729Z,40.7188,42.8876,10,5.3,mww,87,38,1.525,0.56,us,us6000inmr,2022-12-03T22:02:29.040Z,"22 km WSW of Susuz, Turkey",earthquake,5.08,1.811,0.047,43,reviewed,us,us
+2022-09-21T17:57:54.724Z,38.4613,44.9496,10,5.1,mww,75,62,1.494,0.92,us,us7000i9z2,2022-11-26T20:57:50.040Z,"9 km S of Khowy, Iran",earthquake,4.74,1.819,0.093,11,reviewed,us,us
+2022-08-31T10:10:11.426Z,37.5527,26.8515,10.926,5.4,mww,126,34,1.641,0.53,us,us7000i3yp,2022-11-06T04:36:59.040Z,"14 km NW of Megálo Chorió, Greece",earthquake,4.26,4.068,0.041,57,reviewed,us,us
+2022-08-14T03:24:22.958Z,37.9952,27.1512,11.697,5,mww,89,22,1.213,1.05,us,us6000ianw,2022-10-28T02:25:49.040Z,"3 km SE of Özdere, Turkey",earthquake,4.27,3.321,0.098,10,reviewed,us,us
+2022-06-12T18:35:20.871Z,38.7366,43.5068,10,5.2,mww,67,56,0.55,0.73,us,us7000hgyu,2022-08-21T00:16:32.040Z,"28 km NNE of Van, Turkey",earthquake,4.7,1.9,0.086,13,reviewed,us,us
+2022-04-09T14:02:15.496Z,38.1155,38.6617,10,5.3,mww,,55,1.008,0.87,us,us7000h0wh,2022-06-20T22:07:34.040Z,"9 km NNE of Sincik, Turkey",earthquake,4.8,1.8,0.062,25,reviewed,us,us
+2022-02-13T18:25:56.058Z,41.1598,44.01,10,5.3,mww,,29,0.993,0.88,us,us7000gkl5,2022-04-30T14:18:07.040Z,"18 km WSW of Metsavan, Armenia",earthquake,4.6,1.8,0.057,30,reviewed,us,us
+2022-01-05T03:21:16.251Z,36.1445,31.2928,42.99,5.1,mww,,42,1.268,0.95,us,us7000g94d,2022-03-12T22:19:08.040Z,"67 km SSW of Okurcalar, Turkey",earthquake,5.4,4,0.055,32,reviewed,us,us
+2021-11-30T04:00:40.529Z,37.7371,26.0792,10,5.1,mww,,43,1.481,0.61,us,us6000g7ta,2022-02-05T23:03:28.040Z,"23 km NW of Agios Kirykos, Greece",earthquake,2.6,1.8,0.063,24,reviewed,us,us
+2021-11-19T12:40:53.461Z,39.8267,41.9223,6.17,5.1,mwr,,34,1.112,0.77,us,us7000fvfl,2022-05-29T19:06:08.046Z,"23 km NW of Karayaz?, Turkey",earthquake,5,4.4,0.078,16,reviewed,us,us
+2021-11-08T17:43:21.856Z,37.8434,32.1713,10,5.1,mww,,22,1.315,0.58,us,us7000fsfm,2022-01-15T20:51:41.040Z,"23 km SE of Derbent, Turkey",earthquake,4.9,1.8,0.05,39,reviewed,us,us
+2021-08-31T11:04:26.926Z,39.0422,30.1894,10,5.1,mww,,21,0.861,0.49,us,us7000f66b,2021-11-06T20:28:39.040Z,"19 km W of ?hsaniye, Turkey",earthquake,4,1.8,0.059,28,reviewed,us,us
+2021-08-07T01:39:45.606Z,36.2724,27.0356,18.4,5,mww,,45,0.73,1.11,us,us6000f328,2021-10-23T15:45:46.040Z,"38 km SSW of Mandráki, Greece",earthquake,3.8,3.3,0.042,55,reviewed,us,us
+2021-08-03T12:38:17.754Z,36.3902,27.0435,10,5.2,mww,,41,0.846,0.46,us,us6000f1u4,2021-10-14T01:06:20.040Z,"25 km SSW of Mandráki, Greece",earthquake,4.7,1.7,0.052,35,reviewed,us,us
+2021-08-01T04:31:26.956Z,36.3958,27.0112,10.13,5.6,mww,,34,0.855,0.95,us,us6000f155,2021-10-14T01:04:44.040Z,"26 km SSW of Mandráki, Greece",earthquake,4.6,1.3,0.034,85,reviewed,us,us
+2021-06-25T18:28:37.298Z,39.1868,40.1667,3.07,5.4,mww,,34,1.19,0.7,us,us6000epst,2021-11-06T01:14:47.041Z,"eastern Turkey",earthquake,4,3.1,0.047,44,reviewed,us,us
+2021-06-21T22:14:13.556Z,36.4391,27.0416,9.03,5.5,mww,,22,0.895,0.77,us,us7000ef1g,2021-08-27T18:58:12.040Z,"20 km SSW of Mandráki, Greece",earthquake,4.6,2.8,0.049,40,reviewed,us,us
+2021-04-17T17:08:00.786Z,36.4064,27.096,9.98,5,mww,,23,0.85,0.63,us,us6000e2f0,2022-08-09T04:39:05.576Z,"22 km S of Mandráki, Greece",earthquake,4.9,2.8,0.052,35,reviewed,us,us
+2021-04-13T20:28:02.233Z,36.5325,27.0593,5.7,5.3,mww,,23,0.914,0.53,us,us6000e1bu,2021-06-19T21:25:27.040Z,"10 km SW of Mandráki, Greece",earthquake,4.1,3.1,0.052,36,reviewed,us,us
+2021-02-05T15:36:11.039Z,40.5023,45.3486,12.83,5.2,mww,,52,0.584,1.15,us,us6000detl,2021-04-22T21:50:24.040Z,"9 km SSW of Vahan, Armenia",earthquake,4.4,3.6,0.054,33,reviewed,us,us
+2021-02-01T08:35:18.153Z,39.0217,26.0784,10,5.2,mww,,42,0.645,0.54,us,us6000ddle,2021-04-16T19:02:49.040Z,"11 km SW of Polichnítos, Greece",earthquake,1.8,1.8,0.054,33,reviewed,us,us
+2020-12-27T06:37:32.897Z,38.4563,39.2302,9,5.5,mww,,26,0.945,0.55,us,us6000d3dd,2022-03-10T05:51:20.919Z,"7 km WNW of Sivrice, Turkey",earthquake,3.9,1.8,0.043,51,reviewed,us,us
+2020-12-05T12:44:40.454Z,36.0719,31.8808,84.52,5.3,mww,,29,1.621,0.9,us,us7000cnf1,2021-02-12T22:39:25.040Z,"45 km WSW of Gazipa?a, Turkey",earthquake,5.3,4.2,0.045,48,reviewed,us,us
+2020-12-03T05:45:19.821Z,37.9458,41.697,10,5,mww,,39,0.659,0.65,us,us7000cmfa,2021-02-12T22:38:33.040Z,"2 km NNE of Kurtalan, Turkey",earthquake,6.3,1.8,0.098,10,reviewed,us,us
+2020-10-30T15:14:55.887Z,37.8319,26.8222,10,5.3,mww,,32,1.518,1.28,us,us7000c7zh,2021-01-18T23:01:48.040Z,"8 km NW of Kokkári, Greece",earthquake,5.2,1.9,0.098,10,reviewed,us,us
+2020-10-30T11:51:27.348Z,37.8973,26.7838,21,7,mww,,18,1.518,0.59,us,us7000c7y0,2024-09-08T14:50:29.431Z,"13 km NNE of Néon Karlovásion, Greece",earthquake,1.4,1.8,0.036,75,reviewed,us,us
+2020-10-01T11:05:38.322Z,36.7385,26.7488,154.43,5,mb,,36,1.223,0.84,us,us6000c3tv,2020-12-12T22:28:29.040Z,"Dodecanese Islands, Greece",earthquake,6.2,5.2,0.039,209,reviewed,us,us
+2020-09-20T19:08:07.568Z,38.0178,34.0419,10,5.1,mww,,51,1.644,1.08,us,us7000bqjg,2020-11-28T21:31:58.040Z,"22 km NE of Emirgazi, Turkey",earthquake,4.9,1.9,0.065,23,reviewed,us,us
+2020-08-04T09:37:37.015Z,38.1878,38.698,10,5.6,mww,,30,0.947,0.91,us,us6000b930,2022-03-10T05:30:54.343Z,"18 km NNE of Sincik, Turkey",earthquake,3.1,1.7,0.053,34,reviewed,us,us
+2020-06-28T17:43:28.644Z,36.7481,28.2482,63,5.4,mww,,61,0.543,0.82,us,us7000adtk,2020-09-05T17:35:30.040Z,"5 km SSE of ?çmeler, Turkey",earthquake,4.9,1.9,0.058,29,reviewed,us,us
+2020-06-26T07:21:12.533Z,38.7898,27.7934,10,5.2,mww,,42,0.668,0.73,us,us7000abxv,2020-09-05T17:35:22.040Z,"13 km NW of Gölmarmara, Turkey",earthquake,2.7,1.9,0.06,27,reviewed,us,us
+2020-06-25T10:03:30.648Z,38.5329,43.9407,10,5.4,mww,,28,0.727,1.26,us,us7000aavx,2022-03-10T05:26:05.460Z,"14 km SSW of Özalp, Turkey",earthquake,5.1,1.8,0.071,19,reviewed,us,us
+2020-06-15T06:51:31.776Z,39.4226,40.7479,10,5.5,mww,,37,0.625,0.57,us,us6000ac28,2022-03-10T05:23:39.598Z,"18 km E of Yedisu, Turkey",earthquake,4.4,1.8,0.053,34,reviewed,us,us
+2020-06-14T14:24:29.501Z,39.4229,40.7073,10,5.9,mww,,24,0.615,0.62,us,us6000abnv,2022-03-10T05:22:54.331Z,"14 km E of Yedisu, Turkey",earthquake,4.7,1.8,0.039,64,reviewed,us,us
+2020-06-05T18:06:21.607Z,38.2379,38.7587,10,5.1,mww,,29,0.915,0.78,us,us6000a6qw,2022-03-10T05:20:42.962Z,"25 km WSW of Do?anyol, Turkey",earthquake,4.3,1.8,0.066,22,reviewed,us,us
+2020-03-19T17:53:33.384Z,38.3915,39.0729,10,5.2,mww,,52,0.907,1.22,us,us70008cbe,2020-06-06T20:53:54.040Z,"9 km NNE of Do?anyol, Turkey",earthquake,3.3,1.5,0.061,26,reviewed,us,us
+2020-02-25T23:03:37.816Z,38.3489,38.7972,10,5,mww,,59,0.826,0.82,us,us600084bs,2020-05-09T21:40:46.040Z,"21 km WNW of Do?anyol, Turkey",earthquake,4.3,1.8,0.093,11,reviewed,us,us
+2020-02-23T16:00:31.626Z,38.4958,44.3732,10,6,mww,,18,1.049,0.92,us,us70007v9g,2022-03-10T05:06:48.661Z,"37 km ESE of Özalp, Turkey",earthquake,3.5,1.8,0.05,38,reviewed,us,us
+2020-02-23T05:53:01.055Z,38.4465,44.4168,10,5.8,mww,,22,1.075,0.78,us,us70007v29,2022-03-10T05:06:34.354Z,"41 km NW of Salm?s, Iran",earthquake,4.7,1.8,0.055,32,reviewed,us,us
+2020-01-28T11:26:15.000Z,39.1061,27.875,10,5,mww,,20,0.533,0.8,us,us60007i49,2020-04-11T18:21:01.040Z,"Western Turkey",earthquake,4.5,1.8,0.065,23,reviewed,us,us
+2020-01-25T16:30:11.109Z,38.3615,39.1096,10,5.1,mww,,59,0.948,0.82,us,us60007fs4,2020-04-11T18:20:49.040Z,"8 km NE of Do?anyol, Turkey",earthquake,3.2,1.6,0.068,21,reviewed,us,us
+2020-01-24T17:55:14.147Z,38.4312,39.0609,10,6.7,mww,,49,0.87,0.69,us,us60007ewc,2023-03-02T08:31:30.543Z,"13 km N of Do?anyol, Turkey",earthquake,5,1.8,0.043,51,reviewed,us,us
+2020-01-22T19:22:16.298Z,39.0724,27.8389,5.6,5.6,mww,,18,0.567,0.66,us,us60007d2r,2022-03-10T05:01:41.040Z,"15 km ESE of K?rka?aç, Turkey",earthquake,4.1,3.1,0.057,30,reviewed,us,us
