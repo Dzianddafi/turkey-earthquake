@@ -1,2 +1,2 @@
-# turkiye-earthquake
-This project is an application of machine learning and data visualization on seismological approach
+# Simple Fine-Tuning Application Using the Classification Method to Determine Earthquake Locations Along the East Anatolian Fault
+[Coming soon]
