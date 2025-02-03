@@ -50,12 +50,17 @@ From figures above, we can see that epsilon 1.7 can involved the data inside the
 
 ## Analysis
 The analysis objective for this project is to find the moving trend of the earthquake
+
 ![Screenshot 2025-02-03 at 17 41 44](https://github.com/user-attachments/assets/eb823d17-50f7-470c-9d10-d03c9442a6de)
 
-
+The figure above shows that from each data that is labeled by the ML, only 22.22% that occured before the earthquake on February 6th 2023. This conclude that 77.77% data that occured inside the high densed data could be produced by the earthquake since a main earthquake can have a following and still related to it.
 
 ![Screenshot 2025-02-03 at 17 42 48](https://github.com/user-attachments/assets/29cfa40a-c59e-4fd3-85a8-813d89bebf11)
 
+The Figure above described the different location between before and after February 6th 2024. On the left side, we can see that almost every data produced located on the north-east side of the image and the right side described that earthquakes on and anfter February 6th located on the south-west side of the image. This trend can conclude that most likely, the earthquake in this area is moving from north-east to south-west of the image which is located near the East Anatolian Fault.
 
+Figure below shows if the data that occured before and after the giant earthquake shown at the same time. This picture defined that not every earthquake  on the south-west side was labeled as the earthquake that happened on or after the giant earthquake on February 6th 2023.
 
+![Screenshot 2025-02-03 at 17 52 41](https://github.com/user-attachments/assets/ae101036-3a4e-4f86-833c-2eff81830df1)
 
+This marks as the end of the project, Thanks for looking at this project. Feel free to contact me regarding of this project in order to discuss or provide any further advice.
