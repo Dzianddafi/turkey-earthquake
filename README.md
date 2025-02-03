@@ -46,7 +46,9 @@ From figures above, we can see that epsilon 1.7 can involved the data inside the
 (far from the East Anatolian Fault). Thus, epsilon 1.7 perform better that 1.3 and 1.9 that underfitted and overfitted respectively.
 
 ## Data Visualization
+The video below is the demo of how this data can be visualized interactively
 
+https://drive.google.com/file/d/11Y-bUP5_AcIDhYLfll7CEJu-1jMcK0oP/view?usp=sharing
 
 ## Analysis
 The analysis objective for this project is to find the moving trend of the earthquake
