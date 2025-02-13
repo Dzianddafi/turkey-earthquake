@@ -1,4 +1,4 @@
-# Visualizing Earthquake Locationwith Python
+# Visualizing Earthquake Location with Python
 
 The devastating earthquake that struck Turkey on February 6, 2023, had a magnitude of 7.8 and was centered in Nurdağı, near Gaziantep. The tremors caused massive destruction 
 in Turkey and Syria, claiming the lives of more than 50,000 people and injuring tens of thousands of others.
